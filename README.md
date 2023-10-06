@@ -1,2 +1,1 @@
-# nextjs-blog
-My first Next.js app: https://nextjs.org/learn/foundations/about-nextjs
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
